@@ -31,6 +31,20 @@ End-to-end ML project: model training and evaluation, inference served via an AP
 
 
 
+
+
+###### **IMDb API ingestion pipeline**
+
+Small data ingestion project built around an external API. The script retrieves movie information, extracts selected fields, and saves the result as a structured CSV file.
+
+
+
+\- Repo: https://github.com/ybousfer/03\_data\_ingestion\_pipeline
+
+\- Stack: Python, requests, pandas, API ingestion
+
+
+
 #### Technical focus
 
 * SQL analytics (joins, aggregation, KPI design)
