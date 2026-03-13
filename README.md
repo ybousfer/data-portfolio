@@ -45,6 +45,20 @@ Small data ingestion project built around an external API. The script retrieves 
 
 
 
+
+
+###### **Migration research analysis**
+
+Research-oriented analysis based on official Eurostat asylum application data. Includes data cleaning, transformation, and a small set of visual outputs focused on monthly evolution and country comparisons.
+
+
+
+\- Repo: https://github.com/ybousfer/04\_migration\_research\_analysis
+
+\- Stack: Python, pandas, matplotlib, official public data
+
+
+
 #### Technical focus
 
 * SQL analytics (joins, aggregation, KPI design)
